@@ -1,0 +1,11 @@
+p {
+    background-color:white;
+}
+
+body{ 
+    background-image: url('../img/escola.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: aliceblue;
+}
